@@ -49,6 +49,8 @@ nav a {
     list-style: none;
     margin: 0;
     padding: 0;
+    display: grid;
+    grid-template-columns: 200px 200px;
 }
 
 .feature {
